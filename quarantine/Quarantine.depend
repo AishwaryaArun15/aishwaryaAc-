@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1585825401 source:c:\users\admin\desktop\c++\quarantine\functions.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+
+1585829101 source:c:\users\admin\desktop\c++\quarantine\classes&stuff1.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	<cstdlib>
+
