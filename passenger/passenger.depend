@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1586427239 source:c:\users\admin\desktop\c++\passenger\main.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+	<iomanip>
+
