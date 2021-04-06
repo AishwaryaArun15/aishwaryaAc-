@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1615997014 source:c:\users\win\documents\cplusplusprogs\dsa\main.cpp
+	<iostream>
+
+1615997894 source:c:\users\win\documents\cplusplusprogs\dsa\kadanecontiguoussubarraysum.cpp
+	<iostream>
+
+1616009179 source:c:\users\win\documents\cplusplusprogs\dsa\minithemaxdiff.cpp
+	<iostream>
+	<bits/stdc++.h>
+

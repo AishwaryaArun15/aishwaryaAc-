@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1616039373 source:c:\users\win\documents\cplusplusprogs\dsaday2\main.cpp
+	<iostream>
+
+1616043139 source:c:\users\win\documents\cplusplusprogs\dsaday2\pairequsum.cpp
+	<iostream>
+	<bits/stdc++.h>
+
+1616093353 source:c:\users\win\documents\cplusplusprogs\dsaday2\subarraysum0.cpp
+	<iostream>
+	<bits/stdc++.h>
+
